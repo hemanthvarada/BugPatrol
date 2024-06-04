@@ -26,7 +26,8 @@ Getting Started (for Developers)
 
 2. Clone the Repository:
    ```bash
-   git clone https://<your_github_repo_URL>.git
+   git clone https://github.com/hemanthvarada/Bugpatrol.git
+
    ```
 
 3. Set Up Firebase:
