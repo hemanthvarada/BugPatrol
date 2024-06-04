@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Bug Patrol</string>
-    <string name="channel_name">Location Service Channel</string>
-    <string name="channel_description">Channel for Location Service Notifications</string>
-</resources>

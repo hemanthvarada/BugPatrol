@@ -1,8 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/menu_request_ride"
-        android:title="Request Ride"/>
-    <item
-        android:id="@+id/menu_show_requests"
-        android:title="Show Requests"/>
-</menu>
